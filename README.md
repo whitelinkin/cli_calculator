@@ -21,6 +21,7 @@ The project is created for practicing **Go**, modular architecture, and testing.
 ---
 
 ## 📂 Структура проекта | Project structure
+```
 calculator/
 ├── cmd/app/main.go                # Точка входа (CLI)           / Entry point
 ├── internal/calculator/
@@ -28,7 +29,7 @@ calculator/
 │   ├── history.go                 # Работа с историей           / Working with history
 ├── internal/cli/input.go          # Обработка ввода             / Input processing
 ├── tests/                         # Тесты                       / Unit tests
-
+```
 ---
 
 ## ⚙️ Установка и запуск | Installation and launch
