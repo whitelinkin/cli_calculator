@@ -33,13 +33,13 @@ calculator/
 ---
 
 ## ⚙️ Установка и запуск | Installation and launch
-
+```
 Клонировать репозиторий / Clone a repository:
        git clone https://github.com/yourname/calculator.git
        cd calculator/cmd/app
 Запустить / To run:
        go run main.go
-
+```
 ---
 
 ## 💡 Использование | Using app
